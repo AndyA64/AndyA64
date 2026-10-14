@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Andrew 👋
 
-<!--
-**AndyA64/AndyA64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering student in Dallas, TX, building my first projects and looking for internships.
 
-Here are some ideas to get you started:
+I'm also a Classic Tetris competitor: DAS World Champion (2026), Jonas Cup champion (2025 and 2026), and former score world record holder (8.9 million, 2024).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've built
+- [Tetris Stats Tracker](https://github.com/AndyA64/tetris-stats-tracker): log Classic Tetris games and track progress ([live demo](https://andya64.github.io/tetris-stats-tracker/))
+- [My portfolio](https://github.com/AndyA64/portfolio)
+
+## Find me
+- Portfolio: https://andy-a64.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/andrew-artiaga/
+- Email: andrew.artiaga64@gmail.com
