@@ -1,6 +1,6 @@
-# Hi, I'm Andrew 👋
+# Hi, I'm Andy 👋
 
-Software engineering student in Dallas, TX, building my first projects and looking for internships.
+Software engineering student in Dallas, TX, looking for internships.
 
 I'm also a Classic Tetris competitor: DAS World Champion (2026), Jonas Cup champion (2025 and 2026), and former score world record holder (8.9 million, 2024).
 
